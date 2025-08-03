@@ -577,6 +577,11 @@ Now run `crontab -e` and add the following entry:
 
 Save the cronjob and test it by rebooting your system. You can test whether it has worked by following the `curl` steps from above again.
 
+## Contributions
+
+If you are interested in contributing to this repository, please refer to the [CONTRIBUTING.md](./contributing.md) file. This will also go over
+how to build and debug the image.
+
 ## Found an Issue or Bug?
 
 Create a ticket on GitHub, I will do my best to fix it. Feel free to open a pull request as well.
